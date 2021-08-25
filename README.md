@@ -1,7 +1,7 @@
-# Horiseon Social Solutions Sercices, Inc
+# Horiseon Social Solutions Services, Inc
 
 ## Purpose
-A website telling you about the internet
+“A website walking through the Horiseon company’s online offerings” 
 
 ## Built With 
 * Html
